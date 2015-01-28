@@ -1,0 +1,2 @@
+# ExeCmd
+QT CodeSnippet
